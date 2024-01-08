@@ -1,0 +1,29 @@
+label{
+  display: block;
+  text-align: center;
+  font-size: 10em;
+  font-family: Helvetica;
+}
+
+.btn-con{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.btn{
+  font-size: 1.7em;
+  padding: 10px 20px;
+  color: aliceblue;
+  background-color: #b024fc;
+  border: 0;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover{
+  background-color: #981adb;
+}
+
+.btn:nth-child(2){
+  margin: 0 20px;
+}
